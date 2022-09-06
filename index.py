@@ -11,6 +11,9 @@ print("Calculadora" )
 #SUMA
 print ("la suma es", sum.suma(2,4));
 
+#SUMA2
+print ("la suma2 es", sum.suma2(150,150));
+
 #RESTA 
 print ("la resta es", res.resta(10,5));
 
